@@ -1,12 +1,17 @@
 # ai-ml-guild-metrics
+
 Is our MLs learning? 😏
 
 ## Experiment Setup
 
-- Dataset division
+Tools for training better models.
+
+- Dataset division (training, testing, tuning)
 - Cross Validation
 
-## Experiment Measurements
+## Experiment Effectiveness
+
+How do you even measure 'better'?
 
 - Accuracy
 - Recall / Precision / F-measure
